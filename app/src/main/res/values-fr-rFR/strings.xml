@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trouver le nombre 😊</string>
+    <string name="LblTitle">Entrer une valeur entre 1 et 100</string>
+    <string name="btnCompare">Comparer</string>
+    <string name="strGreater">Veuillez entrer une valeur plus grande</string>
+    <string name="strSmaller">Veuillez entrer une valeur plus pétite</string>
+    <string name="strCongrat">Félicitations</string>
+    <string name="strMessage">Félicitations vous avez trouvé en %d coups. Voulez vous essayer encore ?</string>
+    <string name="strYes">Oui</string>
+    <string name="strNo">Non</string>
+</resources>
